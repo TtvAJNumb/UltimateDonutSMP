@@ -4,13 +4,6 @@ Copyright (c) 2026 UltimateDonutSmp. All rights reserved.
 
 UltimateDonutSmp is free, proprietary software.
 
-### 1. Grant of License
-Subject to the terms of this license, you are granted a non-exclusive, non-transferable license to use, download, and run UltimateDonutSmp on your Minecraft server. No fee is charged for this license.
-
-### 2. Restrictions
-- Redistribution, resale, sublicensing, public mirroring, or unauthorized sharing of the software or its compiled artifacts is strictly prohibited without explicit written permission from the copyright holders.
-- Reverse engineering, decompiling, or modifying the software for commercial resale or unauthorized redistribution is strictly prohibited.
-- Removing, altering, or obscuring copyright, license, or attribution notices contained in the software is strictly prohibited.
 
 ### 3. Permitted Modification
 You may modify the source code for use on your own server, and you may build the software from source for that purpose. Modified versions remain subject to the restrictions in Section 2 and may not be distributed.
